@@ -1,0 +1,21 @@
+CourseID,Coursename,Duration
+MSBI-F,MSBI Fast Track,30
+MSBI-N,MSBI Normal Track,50
+MSBI-C,MSBI Customized,20
+Teradata-F,Teradata Fast Track,30
+Teradata-N,Teradata Normal Track,40
+Teradata-C,Teradata Customized,20
+Power BI-F,POWER BI Fast Track,20
+Power BI-N,POWER BI Fast Track,30
+Power BI-C,Power BI Customized,20
+Informatica-F,Informatica Fast Track,30
+Informatica-N,Informatica Normal Track,40
+Informatica-C,Informatica Customized,20
+Azure-F,Azure Fast Track,20
+Azure-N,Azure Normal Track,30
+Azure-C,Azure Customized,20
+SQL Server,Normal Track,30
+Hadoop,Hadoop,50
+Teradata F,Teradata,20
+Azure VM,Azure,15
+Power BI Part,Power BI Part,30
